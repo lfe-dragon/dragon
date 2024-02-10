@@ -50,15 +50,15 @@ Apache License, Version 2.0
 
 Copyright © 2016-2024, LFE Dragon Group.
 
-<!-- Named page links below: /-->
+[//]: ---Named-Links---
 
-[logo]: https://avatars1.githubusercontent.com/u/3434967?s=250
-[logo-large]: https://avatars1.githubusercontent.com/u/3434967
-[gh-actions-badge]: https://github.com/ORG/dragon/workflows/build/badge.svg
-[gh-actions]: https://github.com/ORG/dragon/actions?query=workflow%3Abuild+
+[logo]: https://github.com/lfe-dragon/site/blob/master/priv/images/dragon-logo-2-x250.png
+[logo-large]: https://github.com/lfe-dragon/site/blob/master/priv/images/dragon-logo-2-x2400.png
+[gh-actions-badge]: https://github.com/lfe-dragon/dragon/actions/workflows/cicd.yml/badge.svg
+[gh-actions]: https://github.com/lfe-dragon/dragon/actions
 [lfe]: https://github.com/lfe/lfe
 [lfe-badge]: https://img.shields.io/badge/lfe-2.1-blue.svg
-[erlang-badge]: https://img.shields.io/badge/erlang-19%20to%2025-blue.svg
-[version]: https://github.com/ORG/dragon/blob/master/.github/workflows/cicd.yml
-[github-tags]: https://github.com/ORG/dragon/tags
-[github-tags-badge]: https://img.shields.io/github/tag/ORG/dragon.svg
+[erlang-badge]: https://img.shields.io/badge/erlang-21%20to%2026-blue.svg
+[version]: https://github.com/lfe-dragon/dragon/blob/main/.github/workflows/cicd.yml
+[github-tags]: https://github.com/lfe-dragon/dragon/tags
+[github-tags-badge]: https://img.shields.io/github/tag/lfe-dragon/dragon.svg
