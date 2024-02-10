@@ -10,6 +10,13 @@
     {env,[]},
     {modules, []},
 
-    {licenses, ["Apache 2.0"]},
-    {links, []}
+    %% Package metadata:
+    {pkg_name, lfe_dragon},
+    {maintainers, ["Duncan McGreggor"]},
+    {licenses, ["Apache-2"]},
+    {links, [
+        {"GitHub", "https://github.com/lfe-dragon/dragon"},
+        {"Hex", "https://hex.pm/packages/lfe_dragon"}
+    ]},
+    {exclude_files, ["priv/*"]}
  ]}.
